@@ -4,7 +4,7 @@ Welcome to the official GitHub organization of the UCL Centre for Blockchain Tec
 
 ## About Us
 
-The UCL Centre for Blockchain Technologies (CBT) is a leading academic research center at University College London, dedicated to advancing the understanding and development of blockchain and distributed ledger technologies.
+The UCL Centre for Blockchain Technologies (CBT) is a leading academic research centre at University College London, dedicated to advancing the understanding and development of blockchain and distributed ledger technologies.
 
 ## Our Focus
 
